@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "誰にでも優しい君",
+  "base_artist": "Soala",
+  "createdAt": "2026-03-30T13:31:44.233805Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰にでも優しい君",
+      "artist": "Soala",
+      "has_synced": false,
+      "path": "select/pl_01_誰にでも優しい君_Soala.txt"
+    }
+  ]
+}
